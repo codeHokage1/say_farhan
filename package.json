@@ -1,0 +1,27 @@
+{
+  "name": "say_farhan",
+  "version": "1.0.0",
+  "description": "Prints my name to the console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "sayFarhan": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeHokage1/say_farhan.git"
+  },
+  "keywords": [
+    "cli",
+    "npm",
+    "nodejs"
+  ],
+  "author": "Sodiq Farhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codeHokage1/say_farhan/issues"
+  },
+  "homepage": "https://github.com/codeHokage1/say_farhan#readme"
+}
